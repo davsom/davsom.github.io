@@ -27,8 +27,17 @@ body {
   animation: animate 15s linear infinite;
 }
 
-
-
+@keyframes animate {
+  
+    0%{
+       background-position: left 0px top 10px;
+  }
+     40%{
+       background-position: left 800px top 10px;
+  }
+}
+  
+  
 .jumbotron .container {
   max-width: 40rem;
 }

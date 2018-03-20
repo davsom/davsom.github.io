@@ -21,7 +21,7 @@ body {
   font-size: 50px;
   font-family: arial;
   color: rgba(225,225,225,.1);
-  background-image: url(neon.jpg);
+  background-image: url(rbow.png);
   background-repeat: repeat-x;
   -webkit-background-clip: text;
   animation: animate 15s linear infinite;

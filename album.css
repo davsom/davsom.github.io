@@ -22,7 +22,6 @@ body {
   color: rgba(225,225,225,.1);
   background-image: url(rainbow.jpg);
   background-repeat: repeat-x;
-  -webkit-background-clip: text;
 }
 
 .jumbotron .container {

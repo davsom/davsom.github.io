@@ -24,7 +24,10 @@ body {
   background-image: url(neon.jpg);
   background-repeat: repeat-x;
   -webkit-background-clip: text;
+  animation: animate 15s linear infinite;
 }
+
+
 
 .jumbotron .container {
   max-width: 40rem;

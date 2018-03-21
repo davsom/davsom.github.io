@@ -10,7 +10,7 @@ body {
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-image:url("water.gif"); 
+  
 }
 
 .jumbotron-overlay {
@@ -70,6 +70,7 @@ body {
   
 .jumbotron .container {
   max-width: 40rem;
+  background-image:url("water.gif"); 
 }
 
 .album {
